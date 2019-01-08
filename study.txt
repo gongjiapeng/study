@@ -1,0 +1,27 @@
+linxu 常用命令
+1:cd
+2:ls
+3:cp
+4:touch
+5:mkdir
+6:rm
+7:ln
+8:find
+9:cat
+10:tail
+11:less
+12:more
+13:head
+14:wc
+15:grep
+16:du
+17:chown
+19:chmod
+20:tar
+21:whereis
+22:which
+
+
+
+学习使用   vim
+学习使用   git 版本控制
